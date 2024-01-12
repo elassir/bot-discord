@@ -266,7 +266,7 @@ async def aide(ctx):
 
 
 if __name__ == "__main__" :
-    bot.run('MTEzMTI3MDIwNDEwNjc0Nzk1Ng.G2E1x_.__EHPyLozK3MkmcZtT1FHLuDYoxFs-TDAeJLc4')
+    bot.run('*******************************************************************')
 
 
 
